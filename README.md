@@ -8,7 +8,7 @@
 
 <body>
 
-    <h1>My first web page</h1>
+    <h1>Angie Lopez</h1>
 
     <h2>What this is</h2>
     <p>A simple page put together using HTML</p>
