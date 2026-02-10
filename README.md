@@ -10,7 +10,7 @@
     </head>
 <body>
     <h1>Angie Giovanna Lopez</h1>
-<p>Creative statement</p>
+<p>README</p>
     <p> my first website ever for MED150!.<p>
 </body>
 </html>
