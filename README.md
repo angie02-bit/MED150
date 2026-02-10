@@ -1,18 +1,5 @@
-<!DOCTYPE html>
+# my website 
+This is my personal website built with HTml for MED150 class!
 
-<html lang="en">
-<html>
-    <head>
-        <meta charset="utf-8"/>
-        <meta name="description" content=" A page about filmmaking inspirations."/>
-        <meta name="keywords" content="filmmaking, Adobe After Effects, paranormal, stories, Peru, culture, family. grandma"/>
-        <title>"My first website"</title>
-    </head>
-<body>
-    <h1>Angie Giovanna Lopez</h1>
-<p>README</p>
-    <p> my first website ever for MED150!.<p>
-</body>
-</html>
-
-
+Live site:
+https://angie02-bit.github.io/MED150/index.html
