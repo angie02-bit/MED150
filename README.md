@@ -6,7 +6,7 @@
         <meta charset="utf-8"/>
         <meta name="description" content=" A page about filmmaking inspirations."/>
         <meta name="keywords" content="filmmaking, Adobe After Effects, paranormal, stories, Peru, culture, family. grandma"/>
-        <title>"Expressing What My Older Generations Could not."</title>
+        <title>"My first website"</title>
     </head>
 <body>
     <h1>Angie Giovanna Lopez</h1>
