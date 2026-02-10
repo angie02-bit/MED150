@@ -17,8 +17,4 @@ I remember my grandma telling me her life as a kid in a developing country. I as
 </body>
 </html>
 
-<html>
-    <img src="img/image101.jpg" />
-</html>
-
 
