@@ -1,7 +1,28 @@
 body {
   background-color: #00008B;
+	margin: 0;
+	font-family: Eater, Arial, Sans-serif;
 }
+
+	.container {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;
+} 
+
 h1 {
   Color: white;
   text-align: center;
+}
+
+.choices {
+max-width: 60%;
+height: auto;
+margin-bottom: 30px;
+
+hover {
+color: red;
+border-color: red;
 }
