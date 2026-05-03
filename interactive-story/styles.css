@@ -23,7 +23,7 @@ max-width: 60%;
 height: auto;
 margin-bottom: 30px;
 
-a: hover {
-	color: red;
+a:hover {
+color: red;
 border-color: red;
 }
