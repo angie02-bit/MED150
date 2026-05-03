@@ -3,6 +3,17 @@ body {
 	margin: 0;
 	font-family: Eater, Arial, Sans-serif;
 }
+nav {
+	position: absolute;
+	top: 20px;
+	left:20px
+}
+nav a {
+	color: #FFD700;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold:
+}
 .container {
     display: flex; 
     flex-direction: column;
