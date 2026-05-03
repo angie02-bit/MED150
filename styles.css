@@ -16,6 +16,9 @@ h1 {
   font-size: 40px:
 	text-shadow: 0 0 8px rgba (255,255,255,0.7);
 }
+p{
+	color: #e0e0e0;
+	}
 img{
 	max-width: 400px;
 }
