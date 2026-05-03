@@ -23,7 +23,9 @@ img{
 max-width: 60%;
 height: auto;
 margin-bottom: 30px;
-
+a{
+	color: gold;
+}
 a:hover {
 color: red;
 border-color: red;
