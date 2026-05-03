@@ -3,26 +3,27 @@ body {
 	margin: 0;
 	font-family: Eater, Arial, Sans-serif;
 }
-
-	.container {
+.container {
     display: flex; 
     flex-direction: column;
     justify-content: center; 
     align-items: center;
     height: 100vh;
+    text-align: center;
 } 
-
 h1 {
   Color: white;
-  text-align: center;
+  font-size: 40px:
 }
-
+img{
+	max-width: 400px;
+}
 .choices {
 max-width: 60%;
 height: auto;
 margin-bottom: 30px;
 
 a: hover {
-color: red;
+	color: red;
 border-color: red;
 }
